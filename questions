@@ -1,0 +1,125 @@
+{
+   "response_code":0,
+   "results":[
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Pizza?",
+         "correct_answer":"Délicieuse",
+         "incorrect_answers":[
+            "Nutritive",
+            "Espiègle",
+            "Spacieuse"
+         ]
+      },
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Chat?",
+         "correct_answer":"Adorable",
+         "incorrect_answers":[
+            "Loyal",
+            "Captivant",
+            "Revigorant"
+         ]
+      },
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Chien?",
+         "correct_answer":"Affectueux",
+         "incorrect_answers":[
+            "Énergique",
+            "Douillet",
+            "Fou"
+         ]
+      },
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Pickleball?",
+         "correct_answer":"Agréable",
+         "incorrect_answers":[
+            "Portable",
+            "Calmant",
+            "Religieux"
+         ]
+      },
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Maison?",
+         "correct_answer":"Confortable",
+         "incorrect_answers":[
+            "Polyvalent",
+            "Indépendant",
+            "Rangée"
+         ]
+      },
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Ordinateur portable?",
+         "correct_answer":"Portable",
+         "incorrect_answers":[
+            "Agréable",
+            "Obéissant",
+            "Délicieuse"
+         ]
+      },
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Douche?",
+         "correct_answer":"Relaxante",
+         "incorrect_answers":[
+            "Fidèle",
+            "Actif",
+            "Espiègle"
+         ]
+      },
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Religion?",
+         "correct_answer":"Religieuse",
+         "incorrect_answers":[
+            "Mystérieux",
+            "Energique",
+            "Débauché"
+         ]
+      },
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Air Frais?",
+         "correct_answer":"Revigorant",
+         "incorrect_answers":[
+            "Délicieuse",
+            "Rafraîchissante",
+            "Douillet"
+         ]
+      },
+      {
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Which adjective best describes the noun Weekends?",
+         "correct_answer":"Récréatifs",
+         "incorrect_answers":[
+            "Sucrée",
+            "Fou",
+            "Énergique"
+         ]
+      }
+   ]
+} 
