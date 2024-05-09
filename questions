@@ -1,185 +1,125 @@
-{
-   "response_code": 0,
-   "results": [
+ {
+   "response_code":0,
+   "results":[
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Pizza?",
-         "correct_answer": "Délicieuse",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Pizza?",
+         "correct_answer":"Délicieuse",
+         "incorrect_answers":[
             "Exaltant",
             "Espiègle",
             "Spacieuse"
          ]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Chat?",
-         "correct_answer": "Adorable",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Chat?",
+         "correct_answer":"Adorable",
+         "incorrect_answers":[
             "Loyal",
             "Captivant",
             "Revigorant"
          ]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Chien?",
-         "correct_answer": "Affectueux",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Chien?",
+         "correct_answer":"Affectueux",
+         "incorrect_answers":[
             "Curatif",
             "Douillet",
             "Frais"
          ]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Pickleball?",
-         "correct_answer": "Agréable",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Pickleball?",
+         "correct_answer":"Agréable",
+         "incorrect_answers":[
             "Portable",
             "Fou",
             "Religieux"
          ]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Maison?",
-         "correct_answer": "Confortable",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Maison?",
+         "correct_answer":"Confortable",
+         "incorrect_answers":[
             "Polyvalent",
             "Indépendant",
             "Rangée"
          ]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Ordinateur portable?",
-         "correct_answer": "Portable",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Ordinateur portable?",
+         "correct_answer":"Portable",
+         "incorrect_answers":[
             "Agréable",
             "Obéissant",
             "Délicieuse"
          ]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Douche?",
-         "correct_answer": "Mouillé",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Douche?",
+         "correct_answer":"Mouillé",
+         "incorrect_answers":[
             "Fidèle",
             "Actif",
             "Espiègle"
          ]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Religion?",
-         "correct_answer": "Religieuse",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Religion?",
+         "correct_answer":"Religieuse",
+         "incorrect_answers":[
             "Mystérieux",
             "Energique",
             "Débauché"
          ]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Air Frais?",
-         "correct_answer": "Rafraîchissante",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Air Frais?",
+         "correct_answer":"Rafraîchissante",
+         "incorrect_answers":[
             "Délicieuse",
             "Revigorant",
             "Douillet"
          ]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Weekend?",
-         "correct_answer": "Récréatifs",
-         "incorrect_answers": [
+         "type":"multiple",
+         "difficulty":"easy",
+         "category":"Entertainment",
+         "question":"Quel adjectif décrit le mieux le nom Weekend?",
+         "correct_answer":"Récréatifs",
+         "incorrect_answers":[
             "Sucrée",
             "Fou",
             "Énergique"
          ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Téléphone?",
-         "correct_answer": "Essentiel",
-         "incorrect_answers": [
-            "Intrigant",
-            "Intelligent",
-            "Fondateur"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Film?",
-         "correct_answer": "Captivant",
-         "incorrect_answers": [
-            "Favorable",
-            "Radieux",
-            "Enrichissant"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Plage?",
-         "correct_answer": "Magnifique",
-         "incorrect_answers": [
-            "Heureux",
-            "Inestimable",
-            "Abondant"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Sommeil?",
-         "correct_answer": "Réparateur",
-         "incorrect_answers": [
-            "Fantastique",
-            "Chaleureux",
-            "Envoûtant"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment",
-         "question": "Quel adjectif décrit le mieux le nom Théâtre?",
-         "correct_answer": "Artistique",
-         "incorrect_answers": [
-            "Apprécié",
-            "Authentique",
-            "Courageux"
-         ]
       }
    ]
-}
+} 
