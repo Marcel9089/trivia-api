@@ -8,7 +8,7 @@
          "question":"Quel adjectif décrit le mieux le nom Pizza?",
          "correct_answer":"Délicieuse",
          "incorrect_answers":[
-            "Nutritive",
+            "Exaltant",
             "Espiègle",
             "Spacieuse"
          ]
@@ -32,9 +32,9 @@
          "question":"Quel adjectif décrit le mieux le nom Chien?",
          "correct_answer":"Affectueux",
          "incorrect_answers":[
-            "Énergique",
+            "Curatif",
             "Douillet",
-            "Fou"
+            "Frais"
          ]
       },
       {
@@ -45,7 +45,7 @@
          "correct_answer":"Agréable",
          "incorrect_answers":[
             "Portable",
-            "Calmant",
+            "Fou",
             "Religieux"
          ]
       },
@@ -78,7 +78,7 @@
          "difficulty":"easy",
          "category":"Entertainment",
          "question":"Quel adjectif décrit le mieux le nom Douche?",
-         "correct_answer":"Relaxante",
+         "correct_answer":"Mouillé",
          "incorrect_answers":[
             "Fidèle",
             "Actif",
@@ -102,10 +102,10 @@
          "difficulty":"easy",
          "category":"Entertainment",
          "question":"Quel adjectif décrit le mieux le nom Air Frais?",
-         "correct_answer":"Revigorant",
+         "correct_answer":"Rafraîchissante",
          "incorrect_answers":[
             "Délicieuse",
-            "Rafraîchissante",
+            "Revigorant",
             "Douillet"
          ]
       },
