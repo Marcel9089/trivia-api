@@ -4,182 +4,74 @@
       {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "General Knowledge",
-         "question": "What is the capital city of Australia?",
-         "correct_answer": "Canberra",
-         "incorrect_answers": [
-            "Sydney",
-            "Melbourne",
-            "Perth"
-         ]
+         "category": "Hockey",
+         "question": "Which adjective best describes the noun hockey?",
+         "correct_answer": "Palpitant",
+         "incorrect_answers": ["Euphoric", "Harmonieux", "Divertissant"]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "Science & Nature",
-         "question": "What is the chemical symbol for water?",
-         "correct_answer": "H2O",
-         "incorrect_answers": [
-            "O2",
-            "CO2",
-            "H2SO4"
-         ]
+         "category": "Boxing",
+         "question": "Which adjective best describes the noun boxing?",
+         "correct_answer": "Brutal",
+         "incorrect_answers": ["Revigorant", "Apaisant", "Fascinant"]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "Entertainment: Music",
-         "question": "Who is known as the 'King of Pop'?",
-         "correct_answer": "Michael Jackson",
-         "incorrect_answers": [
-            "Elvis Presley",
-            "Prince",
-            "David Bowie"
-         ]
+         "category": "Mom",
+         "question": "Which adjective best describes the noun mom?",
+         "correct_answer": "Aimant",
+         "incorrect_answers": ["Résistant", "Adroit", "Revigorant"]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "Entertainment: Film",
-         "question": "Who directed the movie 'Inception'?",
-         "correct_answer": "Christopher Nolan",
-         "incorrect_answers": [
-            "Martin Scorsese",
-            "Quentin Tarantino",
-            "Steven Spielberg"
-         ]
+         "category": "Dad",
+         "question": "Which adjective best describes the noun dad?",
+         "correct_answer": "Fiable",
+         "incorrect_answers": ["Revigorant", "Stratégique", "Palpitant"]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "Geography",
-         "question": "Which river is the longest in the world?",
-         "correct_answer": "Nile",
-         "incorrect_answers": [
-            "Amazon",
-            "Yangtze",
-            "Mississippi"
-         ]
+         "category": "Music",
+         "question": "Which adjective best describes the noun music?",
+         "correct_answer": "Mélodieux",
+         "incorrect_answers": ["Élevé", "Libérateur", "Rafraîchissant"]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "History",
-         "question": "Who was the first President of the United States?",
-         "correct_answer": "George Washington",
-         "incorrect_answers": [
-            "Abraham Lincoln",
-            "Thomas Jefferson",
-            "John F. Kennedy"
-         ]
+         "category": "Summer Break",
+         "question": "Which adjective best describes the noun summer break?",
+         "correct_answer": "Libérateur",
+         "incorrect_answers": ["Ensoleillé", "Dévoué", "Mémorable"]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "Science & Nature",
-         "question": "What is the chemical symbol for gold?",
-         "correct_answer": "Au",
-         "incorrect_answers": [
-            "Ag",
-            "Hg",
-            "Pb"
-         ]
+         "category": "Grandma",
+         "question": "Which adjective best describes the noun grandma?",
+         "correct_answer": "Gentil",
+         "incorrect_answers": ["Agressif", "Sanglant", "Explosif"]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "Entertainment: Television",
-         "question": "Which TV show features characters named Rachel, Ross, and Joey?",
-         "correct_answer": "Friends",
-         "incorrect_answers": [
-            "The Office",
-            "Breaking Bad",
-            "Game of Thrones"
-         ]
+         "category": "Friends",
+         "question": "Which adjective best describes the noun friends?",
+         "correct_answer": "Sûr",
+         "incorrect_answers": ["Précis", "Tenace", "Imprévisible"]
       },
       {
          "type": "multiple",
          "difficulty": "easy",
-         "category": "Entertainment: Video Games",
-         "question": "What is the main character's name in the game 'The Legend of Zelda'?",
-         "correct_answer": "Link",
-         "incorrect_answers": [
-            "Mario",
-            "Luigi",
-            "Donkey Kong"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Science & Nature",
-         "question": "What is the closest planet to the Sun?",
-         "correct_answer": "Mercury",
-         "incorrect_answers": [
-            "Venus",
-            "Mars",
-            "Jupiter"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "General Knowledge",
-         "question": "What is the largest mammal in the world?",
-         "correct_answer": "Blue whale",
-         "incorrect_answers": [
-            "African elephant",
-            "Giraffe",
-            "Hippopotamus"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment: Books",
-         "question": "Who wrote the 'Harry Potter' book series?",
-         "correct_answer": "J.K. Rowling",
-         "incorrect_answers": [
-            "Stephen King",
-            "J.R.R. Tolkien",
-            "George R.R. Martin"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Entertainment: Music",
-         "question": "Which band performed the song 'Bohemian Rhapsody'?",
-         "correct_answer": "Queen",
-         "incorrect_answers": [
-            "The Beatles",
-            "Led Zeppelin",
-            "Pink Floyd"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Science & Nature",
-         "question": "What is the chemical symbol for carbon?",
-         "correct_answer": "C",
-         "incorrect_answers": [
-            "Co",
-            "Ca",
-            "Cu"
-         ]
-      },
-      {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "General Knowledge",
-         "question": "What is the world's largest ocean?",
-         "correct_answer": "Pacific Ocean",
-         "incorrect_answers": [
-            "Atlantic Ocean",
-            "Indian Ocean",
-            "Arctic Ocean"
-         ]
+         "category": "Christmas",
+         "question": "Which adjective best describes the noun Christmas?",
+         "correct_answer": "Gai",
+         "incorrect_answers": ["Agile", "Mystérieux", "Impressionnant"]
       }
    ]
 }
