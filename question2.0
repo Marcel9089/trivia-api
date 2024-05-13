@@ -45,7 +45,7 @@
          "type": "multiple",
          "difficulty": "easy",
          "category": "Summer Break",
-         "question": "Quel adjectif décrit le mieux le nom break?",
+         "question": "Quel adjectif décrit le mieux le nom summer break?",
          "correct_answer": "Libérateur",
          "incorrect_answers": ["Ensoleillé", "Dévoué", "Mémorable"]
       },
