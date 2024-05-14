@@ -1,77 +1,77 @@
 {
-   "response_code": 0,
-   "results": [
+   "response_code":0,
+   "results":[
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Hockey",
-         "question": "Quel adjectif décrit le mieux le nom hockey?",
-         "correct_answer": "Palpitant",
-         "incorrect_answers": ["Euphoric", "Harmonieux", "Divertissant"]
+         "type":"multiple",
+         "difficulty":"difficult",
+         "category":"Hockey",
+         "question":"Quel adjectif décrit le mieux le nom hockey?",
+         "correct_answer":"Palpitant",
+         "incorrect_answers":["Euphoric","Harmonieux","Divertissant"]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Boxing",
-         "question": "Quel adjectif décrit le mieux le nom boxing?",
-         "correct_answer": "Brutal",
-         "incorrect_answers": ["Revigorant", "Apaisant", "Fascinant"]
+         "type":"multiple",
+         "difficulty":"difficult",
+         "category":"Boxing",
+         "question":"Quel adjectif décrit le mieux le nom boxing?",
+         "correct_answer":"Brutal",
+         "incorrect_answers":["Revigorant","Apaisant","Fascinant"]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Mom",
-         "question": "Quel adjectif décrit le mieux le nom mom?",
-         "correct_answer": "Aimant",
-         "incorrect_answers": ["Résistant", "Adroit", "Revigorant"]
+         "type":"multiple",
+         "difficulty":"difficult",
+         "category":"Mom",
+         "question":"Quel adjectif décrit le mieux le nom mom?",
+         "correct_answer":"Aimant",
+         "incorrect_answers":["Résistant","Adroit","Revigorant"]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Dad",
-         "question": "Quel adjectif décrit le mieux le nom dad?",
-         "correct_answer": "Fiable",
-         "incorrect_answers": ["Revigorant", "Stratégique", "Palpitant"]
+         "type":"multiple",
+         "difficulty":"difficult",
+         "category":"Dad",
+         "question":"Quel adjectif décrit le mieux le nom dad?",
+         "correct_answer":"Fiable",
+         "incorrect_answers":["Revigorant","Stratégique","Palpitant"]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Music",
-         "question": "Quel adjectif décrit le mieux le nom music?",
-         "correct_answer": "Mélodieux",
-         "incorrect_answers": ["Élevé", "Libérateur", "Rafraîchissant"]
+         "type":"multiple",
+         "difficulty":"difficult",
+         "category":"Music",
+         "question":"Quel adjectif décrit le mieux le nom music?",
+         "correct_answer":"Mélodieux",
+         "incorrect_answers":["Élevé","Libérateur","Rafraîchissant"]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Summer Break",
-         "question": "Quel adjectif décrit le mieux le nom summer break?",
-         "correct_answer": "Libérateur",
-         "incorrect_answers": ["Ensoleillé", "Dévoué", "Mémorable"]
+         "type":"multiple",
+         "difficulty":"difficult",
+         "category":"Summer Break",
+         "question":"Quel adjectif décrit le mieux le nom summer break?",
+         "correct_answer":"Libérateur",
+         "incorrect_answers":["Ensoleillé","Dévoué","Mémorable"]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Grandma",
-         "question": "Quel adjectif décrit le mieux le nom grandma?",
-         "correct_answer": "Gentil",
-         "incorrect_answers": ["Agressif", "Sanglant", "Explosif"]
+         "type":"multiple",
+         "difficulty":"difficult",
+         "category":"Grandma",
+         "question":"Quel adjectif décrit le mieux le nom grandma?",
+         "correct_answer":"Gentil",
+         "incorrect_answers":["Agressif","Sanglant","Explosif"]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Friends",
-         "question": "Quel adjectif décrit le mieux le nom friends?",
-         "correct_answer": "Sûr",
-         "incorrect_answers": ["Précis", "Tenace", "Imprévisible"]
+         "type":"multiple",
+         "difficulty":"difficult",
+         "category":"Friends",
+         "question":"Quel adjectif décrit le mieux le nom friends?",
+         "correct_answer":"Sûr",
+         "incorrect_answers":["Précis","Tenace","Imprévisible"]
       },
       {
-         "type": "multiple",
-         "difficulty": "easy",
-         "category": "Christmas",
-         "question": "Quel adjectif décrit le mieux le nom Christmas?",
-         "correct_answer": "Gai",
-         "incorrect_answers": ["Agile", "Mystérieux", "Impressionnant"]
+         "type":"multiple",
+         "difficulty":"difficult",
+         "category":"Christmas",
+         "question":"Quel adjectif décrit le mieux le nom Christmas?",
+         "correct_answer":"Gai",
+         "incorrect_answers":["Agile","Mystérieux","Impressionnant"]
       }
    ]
 }
