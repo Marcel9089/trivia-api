@@ -1,0 +1,157 @@
+{
+   "response_code": 0,
+   "results": [
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Pizza?",
+         "correct_answer": "Délicieuse",
+         "incorrect_answers": ["Exaltant", "Espiègle", "Spacieuse"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Chat?",
+         "correct_answer": "Adorable",
+         "incorrect_answers": ["Loyal", "Captivant", "Revigorant"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Chien?",
+         "correct_answer": "Affectueux",
+         "incorrect_answers": ["Curatif", "Douillet", "Frais"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Pickleball?",
+         "correct_answer": "Agréable",
+         "incorrect_answers": ["Portable", "Fou", "Religieux"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Maison?",
+         "correct_answer": "Confortable",
+         "incorrect_answers": ["Polyvalent", "Indépendant", "Rangée"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Ordinateur portable?",
+         "correct_answer": "Portable",
+         "incorrect_answers": ["Agréable", "Obéissant", "Délicieuse"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Douche?",
+         "correct_answer": "Mouillé",
+         "incorrect_answers": ["Fidèle", "Actif", "Espiègle"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Religion?",
+         "correct_answer": "Religieuse",
+         "incorrect_answers": ["Mystérieux", "Energique", "Débauché"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Air Frais?",
+         "correct_answer": "Rafraîchissante",
+         "incorrect_answers": ["Délicieuse", "Revigorant", "Douillet"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Entertainment",
+         "question": "Quel adjectif décrit le mieux le nom Weekend?",
+         "correct_answer": "Récréatifs",
+         "incorrect_answers": ["Sucrée", "Fou", "Énergique"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Hockey",
+         "question": "Quel adjectif décrit le mieux le nom hockey?",
+         "correct_answer": "Palpitant",
+         "incorrect_answers": ["Euphoric", "Harmonieux", "Divertissant"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Boxing",
+         "question": "Quel adjectif décrit le mieux le nom boxing?",
+         "correct_answer": "Brutal",
+         "incorrect_answers": ["Revigorant", "Apaisant", "Fascinant"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Mom",
+         "question": "Quel adjectif décrit le mieux le nom mom?",
+         "correct_answer": "Aimant",
+         "incorrect_answers": ["Résistant", "Adroit", "Revigorant"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Dad",
+         "question": "Quel adjectif décrit le mieux le nom dad?",
+         "correct_answer": "Fiable",
+         "incorrect_answers": ["Revigorant", "Stratégique", "Palpitant"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Music",
+         "question": "Quel adjectif décrit le mieux le nom music?",
+         "correct_answer": "Mélodieux",
+         "incorrect_answers": ["Élevé", "Libérateur", "Rafraîchissant"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Summer Break",
+         "question": "Quel adjectif décrit le mieux le nom summer break?",
+         "correct_answer": "Libérateur",
+         "incorrect_answers": ["Ensoleillé", "Dévoué", "Mémorable"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Grandma",
+         "question": "Quel adjectif décrit le mieux le nom grandma?",
+         "correct_answer": "Gentil",
+         "incorrect_answers": ["Agressif", "Sanglant", "Explosif"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Friends",
+         "question": "Quel adjectif décrit le mieux le nom friends?",
+         "correct_answer": "Sûr",
+         "incorrect_answers": ["Précis", "Tenace", "Imprévisible"]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Christmas",
+         "question": "Quel adjectif décrit le mieux le nom Christmas?",
+         "correct_answer": "Gai",
+         "incorrect_answers": ["Agile", "Mystérieux", "Impressionnant"]
+      }
+   ]
+}
